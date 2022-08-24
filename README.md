@@ -10,7 +10,7 @@
  >>>> day 11-41 : vanilla javascript, #30daysOfJavascriptChallenge, 2 big projects using vanilla js <br>
  >>>> day 41-71: React js. <br>
  >>>> day 72 -87: react js project (john smilga) <br>
- >>>> Day 87 -100 : react twitter clone <br>
+ >>>> Day 87 -100 : react twitter clone. Complete #60DaysOfReactChallenge <br>
  
  
  
