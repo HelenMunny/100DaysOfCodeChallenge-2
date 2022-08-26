@@ -16,7 +16,7 @@
  >>>> Setting up plans, looked all the materials, and get the working environment ready to be worked with. <br>
  ## Day 2:
  >>>> Revised Git & Github <br>
- ## Day 3:
+ ## Day 3-5:
  >>>> Revised html, css, & bootstrap <br>
  
  
