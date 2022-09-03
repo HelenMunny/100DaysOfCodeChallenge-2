@@ -1,4 +1,6 @@
-# 100 Days of Code Challenge
+# 100 Days of Code Challenge - 2nd attempt (2022)
+
+>>>> this is my 2nd attempt of #100daysofcode challenge. 
 
 ## Commitments
 >>>> Code for 1-3 hours everyday consistently for 100days without a break. <br>
@@ -12,12 +14,12 @@
  >>>> day 72 -87: react js project (john smilga) <br>
  >>>> Day 87 -100 : react twitter clone. Complete #60DaysOfReactChallenge <br>
  
- ## Day 1: 
+ ## Day 1 (Aug 31): 
  >>>> Setting up plans, looked all the materials, and get the working environment ready to be worked with. <br>
- ## Day 2:
- >>>> Revised Git & Github <br>
- ## Day 3-7:
- >>>> Revised html, css, Sass, bootstrap and old projects <br>
+ ## Day 2 (Sep 1):
+ >>>> Revised Git & Github, html, css <br>
+ ## Day 3 (Sep 2):
+ >>>> Revised css. started css art <br>
  
  
  
