@@ -20,8 +20,8 @@
  >>>> Revised Git & Github, html, css <br>
  ## Day 3 (Sep 2):
  >>>> Revised css. started css art <br>
-## Day 4-5 (Sep 3-4):
->>>> Still with CSS art
+## Day 4-10 (Sep 3-9):
+>>>> Completed a sketch of a boy with CSS Art <br>
  
  
  
