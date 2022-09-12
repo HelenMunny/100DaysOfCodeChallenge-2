@@ -22,6 +22,8 @@
  >>>> Revised css. started css art <br>
 ## Day 4-10 (Sep 3-9):
 >>>> Completed a sketch of a boy with CSS Art <br>
+## Day 11 - 12 (Sep 10-11):
+>>>> Started vanilla javascript from colt steele web dev bootcamp in udemy. <br>
  
  
  
